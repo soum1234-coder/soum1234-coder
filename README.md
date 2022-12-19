@@ -36,7 +36,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soum1234-coder)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soum1234-coder)](https://github.com/soum1234-coder/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soum1234-coder&layout=compact&theme=vision-friendly-dark)](https://github.com/soum1234-coder/github-readme-stats)
 
