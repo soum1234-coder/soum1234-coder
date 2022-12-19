@@ -38,4 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soum1234-coder)](https://github.com/soum1234-coder/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soum1234-coder&layout=compact&theme=vision-friendly-dark)](https://github.com/soum1234-coder/github-readme-stats)
+
 
