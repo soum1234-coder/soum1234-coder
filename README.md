@@ -1,12 +1,28 @@
 ### Hi there 👋
 
-👋 I’m Soumya Agarwal @soum1234-coder
+👋 I’m Soumya Agarwal currently working as AI Engineer
 
-👀 I’m interested in Data Science, Python, AI & Machine Learning
+About:
 
-🌱 I’m currently working as a researcher in data science.
+👋 AI Engineer | MCA Gold Medalist | Award-Winning Innovator | Research-Focused
 
-💞️ I’m looking to collaborate on any Data Science and Machine Learning projects
+What I Do:
+
+I’m an AI Engineer with 3 years of industry experience across IBM and Jio, specializing in building and deploying advanced AI systems—including multi-agent architectures, MCP integrations, model optimization and applied research-driven solutions.At IBM, I work on designing intelligent agent systems, orchestrating enterprise-grade AI solutions, and developing scalable frameworks for production deployments.At Jio, I contributed as a Data Scientist, working on applied AI research and model development for real-world use cases.Across my journey, I’ve consistently delivered outcomes that drive measurable impact—automating workflows, accelerating decision-making, and improving system efficiency through optimized AI pipelines.
+
+Highlights:
+
+ 🏆 AI Engineer Quarter Award (MEA) — recognized for excellence in AI delivery and innovation• 
+🏆 Client &amp; Partner Success Award — for impactful contributions on enterprise AI projects• 
+🏅 MCA Gold Medalist — recognized for academic excellence and top performance• 
+🧠 AI Engineer at IBM — worked on agents, MCP (Model Context Protocol), automation frameworks &amp; scalable AI solutions, Built AI pipelines and deployed on multiple cloud platform AWS,Azure.•
+ 🔍 Data Scientist at Jio — research-focused projects in applied machine learning and model development
+📚 Published research and hands-on experience with cutting-edge AI frameworks• 
+🎤 Tech community contributor (speaking, blogging &amp; knowledge sharing)
+
+What Drives Me:
+
+I enjoy building AI systems that create real value—systems that are efficient, explainable, and impact-driven. Whether it’s designing agents, optimizing models, or architecting end-to-end AI solutions, I’m always exploring new ways to push what's possible.
 
 📫 Reach me at <div id="badges">
   <a href="https://www.linkedin.com/in/soumyaagarwal76/">
